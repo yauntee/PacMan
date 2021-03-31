@@ -1,4 +1,4 @@
-# PacMan
+# PacMan Project
  
 ## Description: 
 
@@ -7,3 +7,11 @@ This project demonstrates a web page that produces a PacMan on the click of a bu
 ## How to Run: 
 
 To run simply store all files in the same directory and load the index.html in a web browser.
+
+## Roadmap:
+
+Updates will be mad incrementally as I learn new implementations
+
+## License:
+
+
